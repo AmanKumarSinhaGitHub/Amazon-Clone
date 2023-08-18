@@ -225,6 +225,10 @@ footer{
     margin-top: 20px;
 }
 
+.footer-panel-2 ul li {
+    margin: 5px;
+}
+
 .footer-panel-3{
     background-color: #222f3d;
     color: white;
